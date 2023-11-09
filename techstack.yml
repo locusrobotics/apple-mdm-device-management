@@ -1,0 +1,18 @@
+repo_name: locusrobotics/apple-mdm-device-management
+report_id: b42eb5db8f50fb3d55c5e08ab4a9ac09
+repo_type: Public
+timestamp: '2023-11-09T16:27:21+00:00'
+requested_by: cyrusdaboo
+provider: github
+branch: release
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
